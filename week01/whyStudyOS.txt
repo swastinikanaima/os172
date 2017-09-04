@@ -1,1 +1,3 @@
 #swastinikanaima
+
+It's important to study Operating Systems because OS is a key part of a computer system. By studying Operating Systems, we could also learn about concurrency (when two tasks overlap in execution). And of course, if we understand the Operating System, we understand how a system works, therefore we could design a product/program that utilizes the strengths of said system while minimizing the weaknesses.
