@@ -1,0 +1,5 @@
+#Swastinika Naima Moertadho
+
+In week0's assignment, we had to make several accounts: Google and GitHub. And then, we had to create a repository and submit our usernames and infos to the provided link.
+
+After receiving confirmation on our accounts, we then had to attempt to login tothe badak server, following the steps in the SOP. And all of that prepared us for this week's assignment!
