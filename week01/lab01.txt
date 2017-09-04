@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 swastinika.naima StafCS 4096 Sep  4 11:58 .
+drwx--x--x  4 swastinika.naima StafCS 4096 Sep  4 11:23 ..
+drwxr-xr-x  8 swastinika.naima StafCS 4096 Sep  4 11:23 .git
+drwxr-xr-x  2 swastinika.naima StafCS 4096 Sep  4 11:01 key
+-rw-r--r--  1 swastinika.naima StafCS    0 Sep  4 11:59 lab01.txt
+drwxr-xr-x  2 swastinika.naima StafCS 4096 Sep  4 11:01 log
+-rw-r--r--  1 swastinika.naima StafCS    7 Sep  4 10:56 README.md
+drwxr-xr-x  2 swastinika.naima StafCS 4096 Sep  4 11:05 sandbox
+drwxr-xr-x  2 swastinika.naima StafCS 4096 Sep  4 11:22 week00
+drwxr-xr-x  2 swastinika.naima StafCS 4096 Sep  4 10:59 week01
+drwxr-xr-x  2 swastinika.naima StafCS 4096 Sep  4 10:59 week02
+drwxr-xr-x  2 swastinika.naima StafCS 4096 Sep  4 10:59 week03
+drwxr-xr-x  2 swastinika.naima StafCS 4096 Sep  4 10:59 week04
+drwxr-xr-x  2 swastinika.naima StafCS 4096 Sep  4 11:00 week05
+drwxr-xr-x  2 swastinika.naima StafCS 4096 Sep  4 11:00 week06
+drwxr-xr-x  2 swastinika.naima StafCS 4096 Sep  4 11:00 week07
+drwxr-xr-x  2 swastinika.naima StafCS 4096 Sep  4 11:00 week08
+drwxr-xr-x  2 swastinika.naima StafCS 4096 Sep  4 11:00 week09
+drwxr-xr-x  2 swastinika.naima StafCS 4096 Sep  4 11:00 week10
+drwxr-xr-x  2 swastinika.naima StafCS 4096 Sep  4 11:01 xtra
+/home/fasilkom/mahasiswa/s/swastinika.naima/os172/week01
