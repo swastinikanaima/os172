@@ -1,0 +1,4 @@
+w01-170904-11-Lab01: Clone Git Repository & Introduction to Git
+w01-170904-11-Lab01: Intro to CLI
+w01-170904-21-Lab01: Intro to Scripting
+
