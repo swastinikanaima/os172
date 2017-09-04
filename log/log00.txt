@@ -1,0 +1,8 @@
+w00-170829-16-LR-About: Introduction to Operating Systems, From: Lecturer
+w00-170829-16-LR-About: Introduction to Operating Systems, From: Lecturer
+w00-170829-17-LR-About: Introduction to Operating Systems, From: Lecturer
+w00-170831-16-LR-About: Introduction to Operating Systems, From: Lecturer
+w00-170831-16-LR-About: Introduction to Operating Systems, From: Lecturer
+w00-170831-17-LR-About: Introduction to Operating Systems, From: Lecturer
+w00-170831-19-PS-Following the steps of SOP Login to Badak Server
+ 
