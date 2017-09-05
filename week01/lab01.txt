@@ -19,7 +19,5 @@ drwxr-xr-x  2 swastinika.naima StafCS 4096 Sep  4 11:00 week08
 drwxr-xr-x  2 swastinika.naima StafCS 4096 Sep  4 11:00 week09
 drwxr-xr-x  2 swastinika.naima StafCS 4096 Sep  4 11:00 week10
 drwxr-xr-x  2 swastinika.naima StafCS 4096 Sep  4 11:01 xtra
-/home/fasilkom/mahasiswa/s/swastinika.naima/os172/week01
-Today is 
-Today   is   
+/home/fasilkom/mahasiswa/s/swastinika.naima/os172/week01   
 Today is 04 Sep 2017 at 21:34:31
